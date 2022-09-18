@@ -1,2 +1,1 @@
-# Homeowork-2-eyupemreaygun
- Homeowork-2-eyupemreaygun
+<img width="484" alt="Ekran Resmi 2022-09-18 17 02 57" src="https://user-images.githubusercontent.com/98653691/190911007-5b109c7b-584d-476e-8502-be8b11e42353.png"><img width="484" alt="Ekran Resmi 2022-09-18 17 03 11" src="https://user-images.githubusercontent.com/98653691/190911010-d8ee422c-dcc3-4eb5-8564-52213d09b651.png"><img width="484" alt="Ekran Resmi 2022-09-18 17 03 31" src="https://user-images.githubusercontent.com/98653691/190911011-ff768062-e85c-4514-b7ba-c3005f2c0d91.png">
